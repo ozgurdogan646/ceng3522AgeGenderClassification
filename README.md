@@ -41,7 +41,7 @@ to the file size.:sweat_smile:
 Here is the link :
 https://drive.google.com/file/d/1lWCL83V4Y1exiHXAq4PaAEeHTAqZd4wd/view?usp=sharing
 
-Extract this to your folder and **delete** models folder.
+Extract this to your folder and **delete** models folder if it exist.
 
 ## How to run
 

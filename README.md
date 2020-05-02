@@ -14,15 +14,16 @@ How to install
 First clone the repository to your local.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-```
 git clone https://github.com/ozgurdogan646/ceng3522AgeGenderClassification.git
-```
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-After that there are two options : - Train your own model - You can use directly
-our basic model
+After that there are two options :
 
-###### Train your own model
+\- Train your own model
+
+\- You can use directly our basic model
+
+## Train your own model
 
 For now you need the change code for train your own model. This will change in
 future versions
@@ -32,7 +33,7 @@ https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification
 
 Then create your model. \>Faces folder must be in same directory with scripts.
 
-###### Using ready models
+## Using ready models
 
 First you need to install our model weights. They were not uploaded to git due
 to the file size.:sweat_smile:
@@ -42,15 +43,13 @@ https://drive.google.com/file/d/1lWCL83V4Y1exiHXAq4PaAEeHTAqZd4wd/view?usp=shari
 
 Extract this to your folder and **delete** models folder.
 
-###### How to run
+## How to run
 
 If you use your model :
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-```
 >>> python createModel.py
 >>> python ageGenderPredictor.py
-```
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Don't need to use createModel.py if you don't create your own model.

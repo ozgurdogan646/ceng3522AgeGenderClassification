@@ -23,7 +23,8 @@ After that there are two options :
 
 \- You can use directly our basic model
 
-## Train your own model
+Train your own model
+--------------------
 
 For now you need the change code for train your own model. This will change in
 future versions
@@ -31,9 +32,12 @@ future versions
 Install data from this link :
 https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification
 
-Then create your model. \>Faces folder must be in same directory with scripts.
+Then create your model.
 
-## Using ready models
+\>Faces folder must be in same directory with scripts.
+
+Using ready models
+------------------
 
 First you need to install our model weights. They were not uploaded to git due
 to the file size.:sweat_smile:
@@ -43,7 +47,8 @@ https://drive.google.com/file/d/1lWCL83V4Y1exiHXAq4PaAEeHTAqZd4wd/view?usp=shari
 
 Extract this to your folder and **delete** models folder if it exist.
 
-## How to run
+How to run
+----------
 
 If you use your model :
 
